@@ -45,7 +45,6 @@ Ideas currently being developed within the Tripartite venture studio.
 | 🎓 Ask Bellamy | An AI-powered assistant designed to make knowledge and expertise more accessible. |
 | 📡 Reputation Radar | Reputation intelligence and risk monitoring built from publicly available information. |
 | 🏛️ Agora | A platform focused on turning complex information into actionable insight and better decisions. |
- 
 > Every venture begins as an idea within the Tripartite Foundry before being validated, refined and grown into a standalone product or business.
 
 ---
@@ -58,9 +57,6 @@ We focus on products and ventures at the intersection of:
 - Software Engineering
 - Automation
 - Digital Products
-- Data & Analytics
-- Venture Incubation
-
 ---
 
 ## Explore
